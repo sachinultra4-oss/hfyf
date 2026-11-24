@@ -1,0 +1,6 @@
+{
+  "name": "Lead Tracker",
+  "description": "Mobile-first clinic lead tracker synced with Google Sheets via Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
